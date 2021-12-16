@@ -4,4 +4,3 @@
 - Eggs
 - Fried Ice cream
 - Bisuts & Gravy
-- Panakes
